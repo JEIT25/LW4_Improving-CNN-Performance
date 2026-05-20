@@ -2,7 +2,7 @@
 
 Google Colab Link: https://colab.research.google.com/drive/1_d80I4jE5sdfBL31kUef8_hZl-N6WGt-?usp=sharing
 
-GradCam Model File Link: https://drive.google.com/file/d/1Ch-xxEmbW3CyyRwJcCrn3z9A5h3wMI52/view?usp=sharing
+GradCam Model File Link: https://drive.google.com/file/d/1ywmHwpcStDXblF1di-gy1XMjbsaBYwGK/view?usp=drive_link
 
 ---
 # GUIDE QUESTIONS (Student Explanation & Reflection)
